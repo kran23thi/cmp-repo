@@ -14,7 +14,7 @@
   "label": "Aws Secret Key",
   "description": "Aws Secret Key",
   "type": "string",
-  "default": false,
+  "default": "TODO",
   "hidden": false,
   "immutable": false,
   "required": true,
