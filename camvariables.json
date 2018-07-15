@@ -16,7 +16,7 @@
   "type": "string",
   "default": false,
   "hidden": false,
-  "immutable": alse,
+  "immutable": false,
   "required": true,
   "secured": false
 },
