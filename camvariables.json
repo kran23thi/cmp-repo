@@ -1,4 +1,4 @@
-[{
+{
   "name": "aws_access_id",
   "label": "Aws Access Id",
   "description": "Aws Access Id",
@@ -92,4 +92,3 @@
 	"type": "string",
 	"regex": "^ssh-rsa AAAA[0-9A-Za-z+/]+[=]{0,3}( [^@]+@[^@]+| [^@]+){0,1}$"
 	}
-	]
