@@ -1,0 +1,75 @@
+{
+   "name": "Kranthi Mercedes Simple Ec2 test",
+   "description": "Kranthi Mercedes Simple Ec2 test",
+   "version": "1",
+   "imageUrl": "",
+   "image": "",
+   "type": "prebuilt",
+   "status": "active",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "",
+     "template_provider": "Amazon EC2",
+     "template": {
+       "templateData": "",
+       "templateVariables": "",
+       "templateOutput": ""
+     },
+     "template_source": {
+       "githubRepoUrl": "",
+       "githubAccessToken": "",
+       "relativePathToTemplateFolder": "AWS/terraform/ec2Test",
+       "templateFileName": "main.tf"
+     }
+   },
+   "metadata": {
+     "displayName": "Ec2 Template displayName",
+     "providerDisplayName": "AWS",
+     "longDescription": "Simpel Ec2 Template",
+     "bullets": [
+       {
+         "title": "Clouds",
+         "description": "Amazon Web Services (AWS)"
+       },
+       {
+         "title": "Template version",
+         "description": "V1.0"
+       },
+       {
+         "title": "Ec2 template",
+         "description": "AWS:Ec2"
+       },
+       {
+         "title": "Topology",
+         "description": "AWS: 2 virtual machines: <ul><li>- Apache and PHP;</li><li>- MySQL</li></ul>"
+       },
+       {
+         "title": "Software deployed",
+         "description": "<table style=\"width:100%\"><tr><td width=\"18%\" valign=\"top\">1. Apache:</td><td>Ec2</td></tr><tr><td>2. MySQL:</td><td>ec2 template</td></tr><tr><td>test</td><td></td></tr></table>"
+       }
+     ],
+     "featuredImageUrl": "",
+     "imageUrl": "",
+     "mediumImageUrl": "",
+     "smallImageUrl": "",
+     "documentationUrl": "",
+     "termsUrl": "",
+     "media": [
+       {
+         "type": "image",
+         "thumbnailUrl": "",
+         "url": "",
+         "caption": ""
+       },
+       {
+         "type": "image",
+         "thumbnailUrl": "",
+         "url": "",
+         "caption": ""
+       }
+     ]
+   },
+   "toolchain": {
+     "git": "https://github.com/ibmcam/cam-toolchain"
+   }
+ }
